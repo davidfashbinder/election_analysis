@@ -70,3 +70,9 @@ The analysis of the election shows that:
  ![Winning Candidate Summary](https://github.com/davidfashbinder/election_analysis/blob/main/winning_candidate_code.png?raw=true)
  
  ## Challenge Summary 
+This code can be used by your election commission for any election - of any type.  Since we are sourcing our data from a CSV file of the results, we can create lists for any candidates.  We can also create dictionaries that deep-dive into any breakdown of the voting district in question:
+  - States
+  - Cities
+  - School Districts
+  - And more
+You can also print data not related to the winning candidate, if you wish to explore a specific candidate and how they fared in a specific part of the voting district.  
