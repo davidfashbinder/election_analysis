@@ -29,5 +29,16 @@ The analysis of the election shows that:
   - Diana Degette who received 73.8% of the vote and 272,892 votes
   
  ## Challenge Overview
+ The challenge asked me to audit the data and provide further insight into the voting results from the election.  Specifically:
+ 
+ 1. Votes by County.
+ 2. Percentage of Votes by County.
+ 3. County with the largest number of votes.
+ 
+ This data was added to the Python script from the project, in order to produce a more robust election analysis.
+ 
+ ## Election Audit Results
+ -Total votes cast in this congressional election: 369,711
+ 
  
  ## Challenge Summary 
